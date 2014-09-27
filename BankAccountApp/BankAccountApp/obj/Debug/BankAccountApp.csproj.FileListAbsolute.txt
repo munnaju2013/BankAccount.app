@@ -1,0 +1,27 @@
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountOperationUI.resources
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\26-Sep-2014\Practice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+J:\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+J:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+J:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+J:\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+J:\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+J:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+J:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountOperationUI.resources
+J:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+J:\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.BankAccountOperationUI.resources
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
